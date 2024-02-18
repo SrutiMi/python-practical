@@ -1,3 +1,10 @@
-Hello this is the first line
-this is the second line
-this is the third line
+Python
+onion
+apple
+orange
+grape
+berry
+rebel
+green
+blue
+Mr
